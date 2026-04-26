@@ -1,0 +1,1 @@
+import{c as e,p as t,t as n,x as r}from"./_plugin-vue_export-helper-BLqcP1Vr.js";import{t as i}from"./Helper-PYGxcuVb.js";var a=t({name:`JBrowseFrame`,methods:{src(){return`${i.URL}:4568/?data=data%2FRound_cabbage_D134_vcf`}}}),o=[`src`];function s(t,n,i,a,s,c){return r(),e(`iframe`,{id:`JBrowseFrame`,src:t.src()},null,8,o)}var c=n(a,[[`render`,s]]);export{c as default};
