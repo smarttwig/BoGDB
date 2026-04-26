@@ -1,0 +1,1 @@
+import{a as e,c as t,p as n,t as r,x as i}from"./_plugin-vue_export-helper-BLqcP1Vr.js";var a={class:`userguide-wrap`},o=r(n({__name:`UserGuide`,setup(n){return(n,r)=>(i(),t(`div`,a,[...r[0]||=[e(`embed`,{type:`application/pdf`,src:`/userguide.pdf`,class:`pdf-embed`},null,-1)]]))}}),[[`__scopeId`,`data-v-0d0151ca`]]);export{o as default};
