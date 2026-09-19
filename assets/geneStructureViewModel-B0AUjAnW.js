@@ -1,0 +1,1 @@
+function e(e,t,n=800){return(e-t.Start)/(t.End-t.Start||1)*n}function t(e){return e===`CDS`?`cds`:e.includes(`UTR`)?`utr`:`exon`}export{e as n,t};
