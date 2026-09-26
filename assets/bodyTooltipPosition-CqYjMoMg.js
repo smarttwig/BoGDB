@@ -1,0 +1,1 @@
+function e(e,t,n){if(!n)return[e[0]??0,e[1]??0];let r=n.getBoundingClientRect(),i=t[0]??0,a=t[1]??0,o=Math.max(8,Math.min(r.left+(e[0]??0)+12,window.innerWidth-i-8)),s=Math.max(8,Math.min(r.top+(e[1]??0)-a-12,window.innerHeight-a-8));return[o-r.left,s-r.top]}export{e as t};
